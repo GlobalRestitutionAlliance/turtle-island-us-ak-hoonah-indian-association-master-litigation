@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+HOONAH+INDIAN+ASSOCIATION",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+HOONAH+INDIAN+ASSOCIATION",
+  "title": "Federal Register - AK HOONAH INDIAN ASSOCIATION",
+  "fetched_at": "2026-11-23T16:01:42.047486Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 278683,
+  "sha256": "7466f6587716a8611ef72a55873eb89a73fcc6fe6b5abd0ab7d5db9cad20239f",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
